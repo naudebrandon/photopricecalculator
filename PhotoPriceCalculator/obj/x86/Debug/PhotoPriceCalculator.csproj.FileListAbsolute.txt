@@ -18,3 +18,11 @@ G:\New folder\Enterprises\My Documents\Development\Personal Projects\PhotoPriceC
 G:\New folder\Enterprises\My Documents\Development\Personal Projects\PhotoPriceCalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.csproj.CoreCompileInputs.cache
 G:\New folder\Enterprises\My Documents\Development\Personal Projects\PhotoPriceCalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.exe
 G:\New folder\Enterprises\My Documents\Development\Personal Projects\PhotoPriceCalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.pdb
+D:\Projects\Photo Price Calculator\photopricecalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.csproj.AssemblyReference.cache
+D:\Projects\Photo Price Calculator\photopricecalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Photo Price Calculator\photopricecalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.Form1.resources
+D:\Projects\Photo Price Calculator\photopricecalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.Properties.Resources.resources
+D:\Projects\Photo Price Calculator\photopricecalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.csproj.GenerateResource.cache
+D:\Projects\Photo Price Calculator\photopricecalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\Photo Price Calculator\photopricecalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.exe
+D:\Projects\Photo Price Calculator\photopricecalculator\PhotoPriceCalculator\obj\x86\Debug\PhotoPriceCalculator.pdb

@@ -13,7 +13,7 @@ namespace PhotoPriceCalculator
     {
         Double CloseSizeSqrMM, ActualSizeSqrMM;
         Double CPrice, PriceSqrMM, APrice;
-        String sPrice;
+        //String sPrice;
         public Form1()
         {
             InitializeComponent();
